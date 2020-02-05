@@ -8,6 +8,6 @@ import './styles/footer.scss'
 import './styles/base.scss'
 
 export {
-    checkForName,
-    handleSubmit
+  checkForName,
+  handleSubmit
 }
